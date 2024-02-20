@@ -1996,11 +1996,11 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
-				DEVELOPMENT_TEAM = RUJJBSYLD9;
+				DEVELOPMENT_TEAM = ZBTQJ9J24J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = iOS/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "$(PRODUCT_NAME)";
+				INFOPLIST_KEY_CFBundleDisplayName = Aidoku;
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = NO;
 				INFOPLIST_KEY_NSFaceIDUsageDescription = "Aidoku needs FaceID permissions for user-defined settings";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Aidoku needs permission to save pages in your photo library";
@@ -2016,7 +2016,7 @@
 				);
 				MARKETING_VERSION = 0.6.7;
 				OTHER_LDFLAGS = "-ld_classic";
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.skitty.Aidoku;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.gentleflow.Aidoku;
 				PRODUCT_NAME = Aidoku;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -2037,11 +2037,11 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
-				DEVELOPMENT_TEAM = RUJJBSYLD9;
+				DEVELOPMENT_TEAM = ZBTQJ9J24J;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = iOS/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "$(PRODUCT_NAME)";
+				INFOPLIST_KEY_CFBundleDisplayName = Aidoku;
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = NO;
 				INFOPLIST_KEY_NSFaceIDUsageDescription = "Aidoku needs FaceID permissions for user-defined settings";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Aidoku needs permission to save pages in your photo library";
@@ -2057,7 +2057,7 @@
 				);
 				MARKETING_VERSION = 0.6.7;
 				OTHER_LDFLAGS = "-ld_classic";
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.skitty.Aidoku;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.gentleflow.Aidoku;
 				PRODUCT_NAME = Aidoku;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -2080,7 +2080,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = 7T4TYRQ8MT;
+				DEVELOPMENT_TEAM = ZBTQJ9J24J;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -2091,7 +2091,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MARKETING_VERSION = 0.1;
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.skitty.Aidoku;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.gentleflow.Aidoku;
 				PRODUCT_NAME = Aidoku;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -2112,7 +2112,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = 7T4TYRQ8MT;
+				DEVELOPMENT_TEAM = ZBTQJ9J24J;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -2123,7 +2123,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MARKETING_VERSION = 0.1;
-				PRODUCT_BUNDLE_IDENTIFIER = xyz.skitty.Aidoku;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.gentleflow.Aidoku;
 				PRODUCT_NAME = Aidoku;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
